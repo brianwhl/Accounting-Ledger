@@ -9,5 +9,4 @@ This is a program for sole proprietorships to use when building their own accoun
  7) Generate financial statements
 
 2. History Management
-
-Translated with DeepL.com (free version)
+ 1)2024-04-05: V01
