@@ -10,3 +10,4 @@ This is a program for sole proprietorships to use when building their own accoun
 
 2. History Management
  1)2024-04-05: V01
+ 2)2024-04-08: I will start explain the code to Youtube channel shortly by each menu
